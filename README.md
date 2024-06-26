@@ -22,4 +22,4 @@ We build and compare three regression models. By using GridSearchCV and turing h
 - New cars have high positive relationship to price
 
 # Summary
-By applying machine learning and data science techniques, we are able to analyze used car price dataset and identify key features. The findings confirms the common knowlege: Low mileage and new car drives the price up. On the other hand, high mileage and old car drives the price down. In addition, certain vehicle types sush as diesel cars and trucks can dirive the price up. Certain manufacturer sush as Ferrari, Tesla and Porsche tends to be very high price.
+By applying machine learning and data science techniques, we are able to analyze used car price dataset and identify key features. The findings confirms the common knowlege: Low mileage and new car drives the price up. On the other hand, high mileage and old car drives the price down. In addition, certain vehicle types sush as diesel cars and trucks can drive the price up. Certain manufacturer sush as Ferrari, Tesla and Porsche tends to be very high price.
